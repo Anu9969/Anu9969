@@ -50,6 +50,70 @@ const sharma = {
 <details>
 <summary>🔮 Blockchain & Web3</summary>
 <br>
+
+<div align="">
+  <img src="https://skillicons.dev/icons?i=solidity,ethereum&theme=dark" alt="Blockchain Skills"/>
+</div>
+
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![IPFS](https://img.shields.io/badge/-IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
+  
+</details>
+
+<details>
+<summary>💻 Frontend & Backend</summary>
+<br>
+
+<div align="">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python&theme=dark" alt="Frontend & Backend Skills"/>
+</div>
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</details>
+
+<details>
+<summary>🛠️ Tools & Platforms</summary>
+<br>
+
+<div align="">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker,aws&theme=dark" alt="Tools & Platforms Skills"/>
+</div>
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+</details>
+
+<details>
+<summary>📚 Languages</summary>
+<br>
+
+<div align="">
+
+
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+  <a href="https://cplusplus.com/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
+
+</div>
+
+</details>
+
+<!--
+### 🛠️ **Tech Arsenal**
+
+<details>
+<summary>🔮 Blockchain & Web3</summary>
+<br>
   
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
@@ -79,7 +143,7 @@ const sharma = {
 
 
 </details>
-
+-->
 ---
 
 ### 📊 **GitHub Analytics**
