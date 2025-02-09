@@ -6,13 +6,13 @@
 <h3 align="center">🚀 Web3 Developer | 💻 Blockchain Innovator | 🌍 Building from India</h3>
 
 <p align="center">
-  <a href="https://twitter.com/sharma_anurag99">
+  <a href="https://x.com/sharma_anurag99">
     <img src="https://img.shields.io/twitter/follow/sharma_anurag99?logo=twitter&style=for-the-badge" alt="Twitter Follow"/>
   </a>
   <a href="https://github.com/anu9969">
     <img src="https://komarev.com/ghpvc/?username=anu9969&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
   </a>
-  <a href="https://sharma.acm.in">
+  <a href="https://sharma.acmsscbs.in">
     <img src="https://img.shields.io/badge/Portfolio-sharma.acm.in-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
@@ -76,7 +76,7 @@ const sharma = {
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 </details>
 
@@ -165,7 +165,7 @@ const sharma = {
 ---
 
 ### 🚀 **My Projects**
-Check out my work at [sharma.acm.in](https://sharma.acm.in). I love building things that push the boundaries of what's possible with blockchain technology!
+Check out my work at [sharma.acm.in](https://sharma.acmsscbs.in). I love building things that push the boundaries of what's possible with blockchain technology!
 
 ---
 
@@ -176,7 +176,7 @@ Let's build the future of the web together! You can find me on:
   <a href="https://twitter.com/sharma_anurag99" target="blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://linkedin.com/in/sharma-anurag-umeshc" target="blank">
+  <a href="https://linkedin.com/in/sharma-anurag-umesh" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/catalyst_anu" target="blank">
