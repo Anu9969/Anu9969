@@ -158,6 +158,8 @@ const sharma = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anu9969&theme=radical" alt="GitHub Streak"/>
 </p>
 
+ <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anu9969&theme=react-dark" alt="Contribution Graph" width="100%" />
 ---
 
 ### 🤝 **Let's Connect!**
@@ -180,10 +182,7 @@ const sharma = {
   </a>
 </p>
 
-### 📈 **Activity Graph**
-[![Sharma's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anu9969&theme=redical)](https://github.com/anu9969)
 
----
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
@@ -201,4 +200,4 @@ const sharma = {
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-=======
+
