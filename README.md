@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hey+there,+I'm+Sharma!;Welcome+to+my+GitHub+Space!&center=true&size=25">
 </h1>
 
-<h3 align="center">🚀 Web3 Developer | 💻 Blockchain Innovator | 🌍 Building from India</h3>
+<h3 align="center">🚀 Web3 Developer | 💻 Blockchain enthusiast | 🌍 Building from India</h3>
 
 <div align="center">
   
