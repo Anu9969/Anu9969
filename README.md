@@ -43,17 +43,22 @@
 </p>
 -->
 ---
+</div>
+<div>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 # 🚀 About Me  
 
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+
 ### 🎯 Quick Highlights  
-- 🔭 **Smart Contract Development & dApp Prototyping**  
-- 🌱 **Learning:** Solidity, JavaScript for React, Layer 2 Scaling  
-- 🚀 **Projects:** Staking DApp, Token Launchpad, Blind Auction, ZK Verification  
-- 💡 **Interests:** Zero-Knowledge Proofs, Cross-chain Bridges, MEV, IPFS/Filecoin  
-- 🎓 **Background:** Web3 Development, Hackathons, Blockchain Research  
+- 🔭 **Current Focus:** Smart Contract Development & dApp Prototyping
+- 🌱 **Learning:** Solidity,JavaScript for React, Layer 2 Scaling
+- 🚀 **Projects:** Staking DApp, Token Launchpad, Blind Auction, ZK Verification
+- 💡 **Interests:** ZK Proofs, Cross-chain Bridges, MEV, IPFS/Filecoin
+- 🎓 **Background:** Web3 Development, Hackathons, Blockchain Research
+
+</div>
 
 ### 💼 **Professional Journey**
 ```typescript
