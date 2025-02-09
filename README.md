@@ -9,38 +9,25 @@
   
  
   <!-- Social & Profile Badges with Improved Styling -->
-  <p align="center">
-    <a href="https://x.com/sharma_anurag99">
-      <img src="https://img.shields.io/twitter/follow/sharma_anurag99?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=000000&logoColor=white" alt="Twitter Follow"/>
-    </a>
-    &nbsp;
-
-<!--
-    
-    <a href="https://github.com/anu9969">
-      <img src="https://komarev.com/ghpvc/?username=anu9969&label=Profile%20Views&color=0e75b6&style=for-the-badge&labelColor=000000" alt="Profile Views"/>
-    </a>
-    &nbsp;
-    -->
-    
+<p align="center">
+  <a href="https://x.com/sharma_anurag99">
+    <img src="https://img.shields.io/twitter/follow/sharma_anurag99?logo=x&style=for-the-badge&color=black&labelColor=black&logoColor=white&label=FOLLOW" alt="Twitter Follow"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://sharma.acmsscbs.in">
-      <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000" alt="Portfolio"/>
-    </a>
-  </p>
+    <img src="https://img.shields.io/badge/PORTFOLIO-sharma.acmsscbs.in-4CAF50?style=for-the-badge&logo=safari&logoColor=white&labelColor=black" alt="Portfolio"/>
+  </a>
+</p>
 
-  <!-- Additional Profile Badges -->
-  <p align="center">
-
+<p align="center">
   <a href="https://github.com/anu9969?tab=followers">
-      <img src="https://img.shields.io/github/followers/anu9969?style=for-the-badge&logo=github&labelColor=000000" alt="Followers"/>
-    </a>
-    &nbsp;
-    <a href="https://github.com/anu9969/anu9969">
-      <img src="https://img.shields.io/badge/Status-Available_for_hire-28a745?style=for-the-badge&logo=web&logoColor=white&labelColor=000000" alt="Status"/>
-    </a>
-  </p>
-  
-
+    <img src="https://img.shields.io/github/followers/anu9969?style=for-the-badge&logo=github&labelColor=black&color=white&label=FOLLOWERS" alt="Followers"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/anu9969/anu9969">
+    <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_HIRE-22c55e?style=for-the-badge&logo=github-sponsors&logoColor=white&labelColor=black" alt="Status"/>
+  </a>
+</p>
 
 <!--
 <p align="center">
