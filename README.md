@@ -84,9 +84,6 @@ const sharma = {
 
 ### 📊 **GitHub Analytics**
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anu9969&theme=darkhub&no-frame=true&row=1&column=7" alt="Trophy"/>
-</p>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anu9969&show_icons=true&theme=radical"/>
