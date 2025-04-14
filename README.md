@@ -191,7 +191,7 @@ const sharma = {
 </p>
 
  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anu9969&theme=react-dark" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anu9969&theme=react-dark" alt="Contribution Graph" width="180%" />
 ---
 
 ### 🤝 **Let's Connect!**
